@@ -60,7 +60,7 @@ To get started with the quicktype-tauri application, follow these steps:
 
 Once the application is running, you can start using the browser or  application:
 
-
+[Application](./tarui-app.png)
 
 ## Contributing
 
